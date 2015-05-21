@@ -73,18 +73,18 @@ h1{
 .aboutme p{
 	text-align: justify;
 	color: black;
+	margin-left: 100px;
+
 }
 .aboutme h3{
-	color:black;
-	padding-right: 90px;
+
 }
 .aboutme h4{
-	color:black;
-	padding-bottom: 20px;
-	padding-right: 90px;
+	
 }
 .aboutme img{
-	padding-right: 130px;
+
+	
 }
 h2{
 	text-align: center;
@@ -103,16 +103,10 @@ p{
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
-}
-footer {
-	bottom:0;left:0;right:0;height:3em;
-	background-color: #1f1f1f;
+	background: #dfe47e;
 }
 
-footer p {
-	color: #dfe47e;
-	float: right;
-	padding-top: 10px;
+
 }
 .btn-default {
     background: #dfe47e;
@@ -125,9 +119,7 @@ footer p {
 .navbar-inverse .navbar-nav>li>a {
 	color: #dfe47e;
 }
-.footer-social {
-	padding-top: 5px;
-}
+
 .navbar-bottom {
 max-height: 13px;
 margin-top: 5px;
@@ -139,3 +131,23 @@ color:#dfe47e;
 	float: right;
 	padding-top: 13px;
 }
+.contactrow{
+	text-align: center;
+	margin-top: 50px;
+}
+.contactrow h3{
+	color:black;
+	
+}
+.contactrow h4{
+	font-family: Raleway;
+}
+.contactrow img{
+	margin-top: 30px;
+}
+
+
+
+
+
+
