@@ -42,7 +42,8 @@ h1{
 
 		background-size: 600px;
 	}
-	.ethos{ 
+	.ethos h2{
+		letter-spacing: 2pt; 
 	}
 
 }
@@ -77,12 +78,14 @@ h1{
 
 }
 .aboutme h3{
-
+	letter-spacing: 2pt;
 }
 .aboutme h4{
-	
+	padding-bottom: 20px;
 }
 .aboutme img{
+color: black;
+margin-bottom: 50px;
 
 	
 }
@@ -137,6 +140,7 @@ color:#dfe47e;
 }
 .contactrow h3{
 	color:black;
+	letter-spacing: 2pt;
 	
 }
 .contactrow h4{
@@ -145,7 +149,22 @@ color:#dfe47e;
 .contactrow img{
 	margin-top: 30px;
 }
-
+footer{
+	bottom:0;left:0;right:0;height:4em;
+	background-color: #2a2a2a;
+}
+footer p{
+		color: #dfe47e;
+		float: right;
+		margin-right: 15px;
+		margin-top:10px;
+}
+.contactrow img{
+	padding-bottom: 150px;
+}
+a{
+	color: black;
+}
 
 
 
